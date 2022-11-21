@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "SKRPACE010")(type "KiCad")(uri "${KIPRJMOD}/footprints/SKRPACE010.pretty")(options "")(descr ""))
+  (lib (name "Espressif")(type "KiCad")(uri "${KIPRJMOD}/footprints/Espressif.pretty")(options "")(descr ""))
+)
