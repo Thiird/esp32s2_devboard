@@ -414,6 +414,18 @@
     [
       "4ad5eb03-0843-4fe5-b6dc-a610be4f3d2b",
       ""
+    ],
+    [
+      "c74140a5-e785-4354-9dae-1717387059f3",
+      "MCU"
+    ],
+    [
+      "85867269-2852-463f-91a7-6becac2e48c0",
+      "Pheripherals"
+    ],
+    [
+      "7fb513a0-5baa-4ee8-814e-eb39d829bd88",
+      "Power"
     ]
   ],
   "text_variables": {}
